@@ -2355,7 +2355,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "Wybór dzialu do nauczania",
+					"name": "Wyświetlanie pytań i odpowiedzi",
 					"visibility": "public"
 				},
 				{
@@ -22521,7 +22521,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Wybór dzialu do nauczania",
+											"text": "Wyświetlanie pytań i odpowiedzi",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
